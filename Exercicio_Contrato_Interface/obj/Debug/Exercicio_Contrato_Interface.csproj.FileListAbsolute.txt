@@ -1,0 +1,8 @@
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\bin\Debug\Exercicio_Contrato_Interface.exe.config
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\bin\Debug\Exercicio_Contrato_Interface.exe
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\bin\Debug\Exercicio_Contrato_Interface.pdb
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\obj\Debug\Exercicio_Contrato_Interface.csproj.AssemblyReference.cache
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\obj\Debug\Exercicio_Contrato_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\obj\Debug\Exercicio_Contrato_Interface.csproj.CoreCompileInputs.cache
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\obj\Debug\Exercicio_Contrato_Interface.exe
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio_Contrato_Interface\Exercicio_Contrato_Interface\obj\Debug\Exercicio_Contrato_Interface.pdb
